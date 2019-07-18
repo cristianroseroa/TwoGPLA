@@ -8,7 +8,7 @@ El orden de ejecución es:
 1-TwoGPLAseed
 2-TwoGPLAmain
 3-TwoGPLAplots
-#Nota: El código TwoGPLAfunctions no se ejecuta directamente, se llama de los otros programas.
+#Nota: El código TwoGPLAfunctions no se ejecuta directamente, se llama desde los otros programas.
 
 Se necesitan acompañar los códigos con las siguientes carpetas:
 -Campo
